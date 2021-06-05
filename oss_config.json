@@ -1,0 +1,6 @@
+{
+  "bucketName": "阿里云OSS-bucket",
+  "endPoint": "阿里云OSS-endPoint",
+  "accessKeyId": "阿里云AccessKeyID",
+  "accessKeySecret": "阿里云AccessKeySecret"
+}
